@@ -13,5 +13,6 @@ class ArmstongRangeTest {
 
 		assertArrayEquals(new int[] { 153, 370, 371, 407 }, ArmstrongRange.checkArmstrongRangeTest(100, 1000));
 	}
+	
 
 }
